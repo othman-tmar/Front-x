@@ -1,2 +1,2 @@
-export const Api="https://x-backend.onrender.com/api/";
+export const Api="https://x-back.onrender.com/api/";
 
